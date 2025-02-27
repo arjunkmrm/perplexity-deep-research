@@ -1,4 +1,4 @@
-# Perplexity DeepSearch MCP
+# Perplexity Deep Research MCP
 
 A Model Context Protocol (MCP) server for Perplexity AI API with web search capabilities. This server allows AI assistants to perform web searches using Perplexity's chat completions API with the sonar-deep-research model.
 
