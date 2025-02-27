@@ -1,4 +1,5 @@
 # Perplexity Deep Research MCP
+[![smithery badge](https://smithery.ai/badge/@arjunkmrm/perplexity-deep-research)](https://smithery.ai/server/@arjunkmrm/perplexity-deep-research)
 
 A Model Context Protocol (MCP) server for Perplexity AI API with web search capabilities. This server allows AI assistants to perform web searches using Perplexity's chat completions API with the sonar-deep-research model.
 
@@ -26,6 +27,14 @@ The response from the `deep_research` tool includes:
 
 - Content of search results
 - Citations for the information
+
+## Installing via Smithery
+
+To install perplexity-deep-research for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@arjunkmrm/perplexity-deep-research):
+
+```bash
+npx -y @smithery/cli install @arjunkmrm/perplexity-deep-research --client claude
+```
 
 ## License
 
