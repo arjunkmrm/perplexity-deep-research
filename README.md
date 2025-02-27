@@ -27,18 +27,6 @@ The response from the `deep_research` tool includes:
 - Content of search results
 - Citations for the information
 
-## Usage
-
-### Using with Claude Desktop
-
-When using with Claude Desktop, configure the following:
-
-```json
-{
-  "perplexityApiKey": "your-api-key-here"
-}
-```
-
 ## License
 
 MIT 
